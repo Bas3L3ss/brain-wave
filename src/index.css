@@ -5,9 +5,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-body {
-  height: 10000px !important;
-}
+
 :root {
   --font-sora: "Sora", sans-serif;
   --font-code: "Source Code Pro", monospace;
